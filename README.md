@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer | 2+ Years Experience | Scalable Web Applications</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blue&style=flat" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Byashpaswan&label=Profile%20Views&color=blue&style=flat" alt="profile views"/>
 </p>
 
 ---
@@ -13,7 +13,7 @@
 
 🔹 Strong in Backend Architecture (Node.js, Express)  
 🔹 Experienced in Frontend Development (Angular / React)  
-🔹 Designed & Developed complete **E-Commerce systems**  
+🔹 Designed & Developed complete **Full Stack Application**  
 🔹 Integrated **Stripe & Razorpay** Payment Gateways  
 🔹 Implemented **JWT Authentication & Role-Based Access Control**  
 🔹 Passionate about **System Design & High-Performance APIs**
@@ -38,6 +38,7 @@ I focus on writing **clean, maintainable, and scalable code** that works in real
 - JWT Authentication
 - Role-Based Access Control
 - Middleware Architecture
+- OWASP best Practices
 
 ### 🗄️ Database
 - MongoDB (Mongoose)
@@ -47,7 +48,6 @@ I focus on writing **clean, maintainable, and scalable code** that works in real
 ### ⚡ System Design & Performance
 - Redis Caching
 - API Rate Limiting
-- Row-Level Locking
 - Order Race Condition Handling
 - Scalable Architecture Design
 
@@ -62,21 +62,6 @@ I focus on writing **clean, maintainable, and scalable code** that works in real
 - CI/CD (GitHub Actions / Jenkins)
 - Linux
 - Postman
-
----
-
-## 📂 Featured Project
-
-### 🛒 Scalable E-Commerce Backend System
-
-✔ Email-based authentication  
-✔ Product & Inventory Management  
-✔ Cart & Checkout Flow  
-✔ Order Management System  
-✔ Stripe & Razorpay Integration  
-✔ MongoDB Database  
-✔ Clean MVC Architecture  
-✔ Production-ready security practices  
 
 ---
 
@@ -103,9 +88,8 @@ I focus on writing **clean, maintainable, and scalable code** that works in real
 
 ## 🤝 Connect With Me
 
-📧 Email: your-email@example.com  
-💼 LinkedIn: https://linkedin.com/in/your-profile  
-🌍 Portfolio: https://your-portfolio.com  
+📧 Email: byas.paswan99@gmail.com  
+💼 LinkedIn: www.linkedin.com/in/byas-paswan-a4a45b1a2    
 
 ---
 
