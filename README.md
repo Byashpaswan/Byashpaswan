@@ -43,7 +43,6 @@ I focus on writing **clean, maintainable, and scalable code** that works in real
 ### 🗄️ Database
 - MongoDB (Mongoose)
 - MySQL
-- PostgreSQL
 
 ### ⚡ System Design & Performance
 - Redis Caching
