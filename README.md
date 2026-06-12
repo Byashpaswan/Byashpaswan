@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Byas Paswan</h1>
-<h3 align="center">Full Stack Developer | more than 2 years 8 months Years Experience | Scalable Web Applications</h3>
+<h3 align="center">Full Stack Developer | more than 2 years 9 months Years Experience | Scalable Web Applications</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Byashpaswan&label=Profile%20Views&color=blue&style=flat" alt="profile views"/>
